@@ -1,0 +1,98 @@
+body{
+    background-image: url(https://i.pinimg.com/474x/6a/eb/1a/6aeb1a0f3d4c27cf8d69baafb0535b39.jpg);
+    background-repeat: no-repeat;
+    height:100%;
+    background-size:cover;
+    background-position: center;
+}
+.he{
+    width:100%;
+    text-align: center;
+    font-family:cursive;
+    text-shadow:2px 2px goldenrod;
+    height:110px;
+   background-image: url(https://img.freepik.com/premium-vector/seamless-pattern-with-elements-architecture_600765-1825.jpg?size=626&ext=jpg&ga=GA1.1.1790111831.1689652667&semt=ais);
+   border-radius: 25%;
+   mix-blend-mode:multiply;
+   object-fit:cover;
+   display:block;
+   background-repeat: no-repeat;
+   background-position:center;
+    
+}
+hr{
+    height: 4px;
+    background-color: antiquewhite;
+    border-color: antiquewhite;
+}
+.main{
+    width: 650px;
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+
+}
+.cul{
+    width:80%;
+    height:95px;
+  
+   background-image: url(https://img.freepik.com/premium-photo/national-handloom-day-india-celebration-concept-typography-vector-illustration-generative-ai_756405-15734.jpg?w=1060);
+   margin-left: auto;
+   margin-right: auto;
+   padding: 50px;
+  image-resolution:from image 300dpi;
+
+   display:block;
+   border-radius: 6%;
+   background-repeat: no-repeat;
+   background-position:left;
+   box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+   background-size:45%;
+}
+.art{
+    width:80%;
+    height:95px;
+   background-image: url(https://img.freepik.com/free-vector/multicolor-floral-background_1265-179.jpg?size=626&ext=jpg&ga=GA1.2.1790111831.1689652667&semt=ais);
+   margin-left: auto;
+   margin-right: auto;
+   background-position:left;
+   padding: 50px;
+   image-resolution:from image 300dpi;
+   background-size:45%;
+  display:block;
+  border-radius: 6%;
+  background-repeat: no-repeat;
+  box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+ }
+ .her{
+    width:80%;
+    height:95px;
+   background-image: url(https://img.freepik.com/free-vector/agra-india-skyline-with-panorama-white-background-vector-illustration-business-travel-tourism-concept-with-modern-buildings-image-banner-website_596401-143.jpg?w=1060&t=st=1693995701~exp=1693996301~hmac=23d26993969286e47339a470fd0b51ae62bc6039c6f13f2456c4f2cc3dcd5ab7);
+   margin-left: auto;
+   margin-right: auto;
+   padding: 50px;
+   image-resolution:from image 300dpi;
+   background-size:cover;
+   display:block;
+   border-radius: 6%;
+   background-repeat: no-repeat;
+   background-position:left;
+   box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+  }
+
+.her img{
+    height:fit-content;
+    mix-blend-mode: multiply;
+    object-fit: contain;
+     width:fit-content
+    display:block;
+}
+h3{
+    text-align: right;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;
+            text-emphasis-color: transparent;
+   
+}
