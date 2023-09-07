@@ -90,9 +90,56 @@ hr{
 }
 h3{
     text-align: right;
-    font-size: 60px;
+    font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
-    color:blue;
+    color:black;
             text-emphasis-color: transparent;
+            margin-bottom: 20%;
    
+}
+h5{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.drws{
+    width: 300px;
+    height:300px;
+    image-resolution:from image 300dpi;
+    border-radius: 2px;
+    
+}
+.drw{
+    background-image: url(https://img.freepik.com/free-photo/vintage-grunge-paper-background_1048-10911.jpg?w=360&t=st=1694097446~exp=1694098046~hmac=54bdaf99d1e6afef19c2b0e0d57964c99fb59b26f4b75ff2ba8698f125ced970);
+    background-repeat: no-repeat;
+    height:100%;
+    background-size:cover;
+}
+.pop{
+    text-align: center;
+    text-shadow:2px 2px goldenrod;
+    font-size: 45px;
+}
+abbr{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pop1{
+    text-align: center;
+}
+.an{
+    font-size: 20px;
+    color:black;
+}
+.ann{
+    font-size: 25px;
+}
+.circle{
+    position: fixed;
+    bottom:160px;
+    right:500px;
+    border-radius: 50%;
+    width:200px;
+    height:250px;
+    color:blanchedalmond;
 }
