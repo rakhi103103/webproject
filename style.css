@@ -7,18 +7,25 @@ body{
 }
 .he{
     width:100%;
-    text-align: center;
-    font-family:cursive;
-    text-shadow:2px 2px goldenrod;
+    
     height:110px;
-   background-image: url(https://img.freepik.com/premium-vector/seamless-pattern-with-elements-architecture_600765-1825.jpg?size=626&ext=jpg&ga=GA1.1.1790111831.1689652667&semt=ais);
-   border-radius: 25%;
+   background-image: url(https://img.freepik.com/free-vector/abstract-mandala-banners_1005-2.jpg?size=626&ext=jpg&ga=GA1.1.1790111831.1689652667&semt=ais);
+   border-radius: 2%;
    mix-blend-mode:multiply;
    object-fit:cover;
    display:block;
-   background-repeat: no-repeat;
-   background-position:center;
-    
+   background-repeat: repeat;
+   background-position:left;
+   box-shadow: 20px 0 20px 20px beige inset ;
+   image-resolution:from image 300dpi;
+}
+.pad{
+text-align: center;
+font-size: 45px;
+text-shadow:2px 2px goldenrod;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-top: 30%;
+margin-bottom: 20%;
 }
 hr{
     height: 4px;
@@ -98,13 +105,13 @@ h3{
    
 }
 h5{
-    font-size: 25px;
+    font-size: 35px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
 .drws{
-    width: 300px;
-    height:300px;
+    width: 400px;
+    height:400px;
     image-resolution:from image 300dpi;
     border-radius: 2px;
     
@@ -117,8 +124,8 @@ h5{
 }
 .pop{
     text-align: center;
-    text-shadow:2px 2px goldenrod;
-    font-size: 45px;
+    text-shadow:4px 4px ghostwhite;
+    font-size: 50px;
 }
 abbr{
     text-align: center;
@@ -143,3 +150,34 @@ abbr{
     height:250px;
     color:blanchedalmond;
 }
+.para{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+.chng{
+    width:80%;
+    height:95px;
+   background-image: url(https://img.freepik.com/free-photo/india-gate-mornings_181624-17306.jpg?w=900&t=st=1694180445~exp=1694181045~hmac=61ee0995661b3ef1fabdc87578eefe32b05ca9c9cd868f8f0117b2e263d1bfb8);
+   margin-left: auto;
+   margin-right: auto;
+   padding: 50px;
+   image-resolution:from image 300dpi;
+   background-size:cover;
+   display:block;
+   border-radius: 2%;
+   background-repeat: no-repeat;
+   background-position:center;
+   box-shadow: 20px 0 20px 20px rgb(195, 170, 140) inset ;
+   
+ .pop {
+  
+    
+  color:blanchedalmond;
+  
+    text-align: center;
+    text-shadow:4px 4px yellow;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+ 
