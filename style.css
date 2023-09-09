@@ -141,6 +141,12 @@ abbr{
 }
 .pop1{
     text-align: center;
+        text-align: center;
+    width: 100vw;
+    height: 300px;
+    image-resolution: from image 300dpi;
+    border-radius: 3px;
+    /* box-shadow: 0 2px 2px 2px black;
    
 }
 .an{
