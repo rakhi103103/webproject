@@ -117,8 +117,8 @@ h5{
     text-align: center;
 }
 .drws{
-    width: 400px;
-    height:400px;
+  
+    height:100%;
     image-resolution:from image 300dpi;
     border-radius: 3px;
     box-shadow: 0 2px 2px 2px black;
