@@ -116,10 +116,12 @@ h5{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
-.drws{
+
   
-    height:100%;
-    image-resolution:from image 300dpi;
+ drws {
+    height: 100%;
+    width: 90vw;
+    image-resolution: from image 300dpi;
     border-radius: 3px;
     box-shadow: 0 2px 2px 2px black;
     
