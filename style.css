@@ -1,11 +1,14 @@
 body{
-    background-image: url(https://img.freepik.com/free-photo/pink-floral-wall-textured-background_53876-167333.jpg?size=626&ext=jpg&ga=GA1.2.1790111831.1689652667&semt=ais);
+    background-image: url(https://img.freepik.com/free-photo/grunge-vintage-old-paper-background_1373-431.jpg?size=626&ext=jpg&ga=GA1.1.1790111831.1689652667&semt=ais);
     background-repeat: no-repeat;
     height:100%;
     background-size:cover;
     background-attachment: fixed;
     background-position: center;
     width:100%;
+}
+#pa{
+  color:black;
 }
 .he{
     width:100%;
@@ -50,12 +53,12 @@ hr{
    margin-right: auto;
    padding: 50px;
   image-resolution:from image 300dpi;
-
+color:bisque;
    display:block;
    border-radius: 6%;
    background-repeat: no-repeat;
    background-position:left;
-   box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+   box-shadow: 0 0 20px 0 rgb(84, 11, 11);
    background-size:45%;
 }
 .art{
@@ -71,7 +74,8 @@ hr{
   display:block;
   border-radius: 6%;
   background-repeat: no-repeat;
-  box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+  box-shadow: 0 0 20px 0 rgb(84, 11, 11);
+  color:bisque;
  }
  .her{
     width:80%;
@@ -86,15 +90,17 @@ hr{
    border-radius: 6%;
    background-repeat: no-repeat;
    background-position:left;
-   box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+   box-shadow: 0 0 20px 0 rgb(84, 11, 11);
+   color:bisque;
   }
 
 .her img{
     height:fit-content;
     mix-blend-mode: multiply;
     object-fit: contain;
-     width:fit-content
+     width:fit-content;
     display:block;
+
 }
 h3{
     text-align: right;
@@ -170,7 +176,22 @@ abbr{
    background-repeat: no-repeat;
    background-position:center;
    box-shadow: 20px 0 20px 20px rgb(195, 170, 140) inset ;
-   
+}
+.chngs{
+  width:80%;
+  height:95px;
+ background-image: url(https://img.freepik.com/free-vector/background-template-design-with-mandala-patterns_1308-42779.jpg?size=626&ext=jpg&ga=GA1.2.1790111831.1689652667&semt=ais);
+ margin-left: auto;
+ margin-right: auto;
+ padding: 50px;
+ image-resolution:from image 300dpi;
+ background-size:cover;
+ display:block;
+ border-radius: 2%;
+ background-repeat: no-repeat;
+ background-position:center;
+ box-shadow: 20px 0 20px 20px rgb(195, 170, 140) inset ;
+}
  .pop {
   color:blanchedalmond;
     text-align: center;
@@ -179,17 +200,7 @@ abbr{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   .brk
-  {
-      text-align: center;
-      font-size: 30px;
-      color: white;
-      padding: 10px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 500px;
-      width:30%;
-  }
+
   .left
   {
     float:left;
@@ -199,25 +210,28 @@ abbr{
     text-align:right;
   }
 
-  .container {
-    display: inline-block;
-    cursor: pointer;
-  }
-  
-  .bar1, .bar2, .bar3 {
-    width: 35px;
-    height: 5px;
-    background-color: #333;
-    margin: 6px 0;
-    transition: 0.4s;
-  }
-  
-  .change .bar1 {
-    transform: translate(0, 11px) rotate(-45deg);
-  }
-  
-  .change .bar2 {opacity: 0;}
-  
-  .change .bar3 {
-    transform: translate(0, -11px) rotate(45deg);
-  
+ figcaption{
+  text-align: center;
+ }
+
+
+.oo{
+  text-align: center;
+ font-size:25px;
+ border:2px solid black;
+
+ .chngss{
+  width:80%;
+  height:95px;
+ background-image: url(https://img.freepik.com/premium-vector/mexican-festival_665280-47864.jpg?size=626&ext=jpg&ga=GA1.2.1790111831.1689652667&semt=ais);
+ margin-left: auto;
+ margin-right: auto;
+ padding: 50px;
+ image-resolution:from image 300dpi;
+ background-size:cover;
+ display:block;
+ border-radius: 2%;
+ background-repeat: no-repeat;
+ background-position:center;
+ box-shadow: 20px 0 20px 20px rgb(195, 170, 140) inset ;
+ }
